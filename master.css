@@ -1,0 +1,43 @@
+body 
+{
+    background-color: #09ff00;
+}
+.main
+{
+    font-family: 'Comic Sans MS', Arial;
+    text-align: center;
+    margin: 75px;
+    background-color: #00ffdd;
+    border: 10px ridge black;
+}
+h1
+{
+    text-align: center;
+    font-family: 'Comic Sans MS', Arial;
+    color: #ea00ff;
+    border: 10px ridge black;
+    background-color: #fff200;
+}
+h2
+{
+    color: #fff200;
+}
+ul
+{
+    border: 5px dotted black;
+    margin: 10px;
+}
+h3 
+{
+    color: #0033ff;
+    text-decoration: underline;
+}
+li
+{
+    margin-bottom: 5px;
+}
+.vo, .vf
+{
+    border: 5px dotted black;
+    margin: 50px;
+}
